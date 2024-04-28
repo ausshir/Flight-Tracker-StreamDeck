@@ -426,10 +426,10 @@
   "Category": "Flight Tracker",
   "CategoryIcon": "Images/categoryIcon",
   "Description": "Interact with Microsoft Flight Simulator right from your Stream Deck!",
-  "Name": "Flight Tracker",
+  "Name": "Flight Tracker Fork",
   "Icon": "Images/aircraft",
-  "URL": "https://github.com/nguyenquyhy/Flight-Tracker-StreamDeck",
-  "Version": "0.52",
+  "URL": "https://github.com/ausshir/Flight-Tracker-StreamDeck",
+  "Version": "0.52.1",
   "OS": [
     {
       "Platform": "windows",
